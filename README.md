@@ -21,3 +21,5 @@ https://a20062-2bbe.k.d-f.pw/api/category/subcategory/sight
 
 Получить список всех достопримечательностей
 
+![изображение](https://github.com/HemulenEXE/HackatonFin/assets/84243256/5b27c20f-8d89-4435-9965-67f8aa2abfd4)
+
